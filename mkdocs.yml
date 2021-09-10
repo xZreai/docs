@@ -59,10 +59,13 @@ plugins:
         'a32nx-dev/overview.md': 'dev-corner/dev-guide/index.md'
         'development-projects/overview.md': 'dev-corner/dev-guide/index.md'
         'a32nx-dev/texture-changes.md': 'dev-corner/texture-changes.md'
+        # additional redirects:
+        'fbw-a32nx/feature-guides/throttle-calibration.md': 'fbw-a32nx/feature-guides/flyPad/throttle-calibration.md'
 
 # Styling Front-end
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/EFB-interactive.css
 
 # Extra Functions / Customizations
 extra:
