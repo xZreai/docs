@@ -1,4 +1,4 @@
-# FlyByWire Development Guide - Overview
+# FlyByWire Development Guide
 
 ## Introduction
 
@@ -15,6 +15,6 @@ It is structured in a series of sections which are basing on each other starting
     - From software to troubleshooting everything you need to successfully change and compile the code.
 - [Contribution Guidelines](contribute.md)
     - From General Development Process and Practices to Pull Requests - everything you need to know to collaborate and contribute to the project.
-- [Specific Development areas](specific.md)
+- [Specific Development Areas](specific/)
     - Information for specific parts of the project like the flyPad or avionics.
 

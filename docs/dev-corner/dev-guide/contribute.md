@@ -1,15 +1,46 @@
 # Contribution Guidelines
 
-TODO / Notes:
+## General Development Process and Practices
 
-- General Development Process and Practices
-    - FBW Process (e.g. PR->Code Review->QA->merge)
-    - Helping others
-    - Finding tasks
-    - Issues
-    - Expectations
-- Code Quality
-- Version Control
-- Testing
-- Pull Requests
-- References Material (real life aircraft)
+!!! error "TODO"
+
+### FBW Process
+
+!!! error "TODO"
+ (e.g. PR->Code Review->QA->merge)
+
+### Helping others
+
+!!! error "TODO"
+
+### Finding tasks
+
+!!! error "TODO"
+
+### Issues
+
+!!! error "TODO"
+
+### Expectations
+
+!!! error "TODO"
+
+## Code Quality
+
+!!! error "TODO"
+
+## Version Control
+
+!!! error "TODO"
+
+## Testing
+
+!!! error "TODO"
+
+## Pull Requests
+
+!!! error "TODO"
+
+## References Material (real life aircraft)
+
+!!! error "TODO"

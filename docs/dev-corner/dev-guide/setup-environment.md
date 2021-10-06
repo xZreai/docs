@@ -1,13 +1,16 @@
 # Development Environment
 
 ## Required Software, Tools and libraries
+
+!!! error "TODO"
+
 - git / github
 - Docker
 - IDE (Visual Studio Code, Jetbrains, etc.)
 
 ## Getting the source code
 
-!!! error "TEMP"
+!!! error "TODO"
 
 Before you can load the project to test in your simulator, you first need to ensure you've created a fork of the [A32NX project on GitHub](https://github.com/flybywiresim/a32nx){target=new} and have cloned this in your code editor/IDE.
 We recommend when making changes on your fork, you create a new branch, titled with the change you're looking to make or something similar.
@@ -21,6 +24,8 @@ cd a32nx
 ```
 
 ## Compiling the source
+
+!!! error "TODO"
 
 ## Linking Dev folder to Community folder
 
@@ -48,10 +53,17 @@ Now you've compiled and symlinked your Github fork to your community folder, you
 
 ## Hello World Example
 
+!!! error "TODO"
+
 ## Quick reloading of avionics displays
+
+!!! error "TODO"
 
 ## Tips & Tricks
 
+!!! error "TODO"
+
 ## Troubleshooting
 
+!!! error "TODO"
 
