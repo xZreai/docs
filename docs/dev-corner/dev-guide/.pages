@@ -4,4 +4,4 @@ nav:
     - Resources: resources.md
     - Setup Dev Environmanet: setup-environment.md
     - Contribution Guidelines: contribute.md
-    - Specific Topics: specific.md
+    - Specific Topics: specific

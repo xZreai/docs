@@ -1,39 +1,20 @@
 # FlyByWire Development Guide - Overview
 
+## Introduction
+
+Welcome to our Development Guide for the FlyByWire A32NX guide. This guide will help you set up your development environment to be able to efficiently contribute to the A32NX project.
+
+It is structured in a series of sections which are basing on each other starting with the necessary software and tools, downloading and compiling the A32NX successfully to guidelines how to contribute within the project.
+
+
 ##  Topics / Notes:
 
-- Resources (page)
-    - Github Repo(s)
-    - Discord dev-support and other channels
-    - Tools (WebUI-DevKit, devtools-backend-refurb)
-    - Gauge Reference (P3D XML Gauge Reference - still applies to FS2020)
-- Setting up Development Environment (page)
-    - Required Software, Tools and libraries
-        - git / github
-        - Docker
-        - IDE (Visual Studio Code, Jetbrains, etc.)
-    - Getting the source code
-    - Compiling the source
-    - Linking Dev folder to Community folder
-        - Test with MSFS if compile works
-    - Hello World Example
-    - Quick reloading of avionics displays
-    - Tips & Tricks
-    - Troubleshooting
-- Contribution Guidelines (page)
-    - General Development Process and Practices
-        - FBW Process (e.g. PR->Code Review->QA->merge)
-        - Helping others
-        - Finding tasks
-        - Issues
-        - Expectations
-    - Code Quality
-    - Version Control
-    - Testing
-    - Pull Requests
-    - References Material (real life aircraft)
-- Specific Development areas (page)
-    - Avionics
-    - flyPad
-    - JavaScript
+- [Resources](resources.md)
+    - General information and documentation resources
+- [Setting up Development Environment](setup-environment.md)
+    - From software to troubleshooting everything you need to successfully change and compile the code.
+- [Contribution Guidelines](contribute.md)
+    - From General Development Process and Practices to Pull Requests - everything you need to know to collaborate and contribute to the project.
+- [Specific Development areas](specific.md)
+    - Information for specific parts of the project like the flyPad or avionics.
 
