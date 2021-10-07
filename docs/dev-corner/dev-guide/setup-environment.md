@@ -92,7 +92,46 @@ Now you've compiled and symlinked your Github fork to your community folder, you
 
 ## Hello World Example
 
-!!! error "TODO"
+Before changing anything we recommend to create a new branch from the master branch:
+
+```
+git checkout -b test-branch master
+```
+
+Open this file in the editor/IDE:
+`src/instruments/src/Common/displayUnit.tsx`
+
+Go to line 84 and add the following:
+
+```
+<text
+    className="SelfTestText"
+    x="50%"
+    y="62%"
+>
+    HELLO FLYBYWIRE A32NX!
+</text>
+```
+
+After you save it should look like this:
+
+![hello-world-example-src-code](../assets/dev-guide/hello-world-example-src-code.png)
+
+Now recompile your branch:
+
+```
+.\scripts\dev-env\run.cmd ./scripts/build.sh --no-cache
+```
+
+The optional `--no-cache` option makes sure everything is recompiled.
+
+After the successful compile start the sim and load the FlyByWire A32NX cold & dark at a gate.
+
+When turning on power to the aircraft the screens will do a self test. See if you can spot your code change there.
+
+![hello-world-pfd](../assets/dev-guide/hello-world-pfd.png)
+
+**Congratulations! You have successfully made a code change and deployed the new add-on to the simulator.**
 
 ## Quick reloading of avionics displays
 
