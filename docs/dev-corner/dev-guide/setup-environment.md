@@ -133,7 +133,15 @@ When turning on power to the aircraft the screens will do a self test. See if yo
 
 **Congratulations! You have successfully made a code change and deployed the new add-on to the simulator.**
 
-## Quick reloading of avionics displays
+## Quick Reloading of Avionics Displays
+
+As the aircraft in your project folder is now connected to your MSFS community folder via the symlink you created earlier, each time you load in to the A32NX on MSFS, any changes you've made since the sim was last opened should be updated.
+
+Rather than reloading MSFS each time you wish to test your changes, you can ...
+
+!!! error "TODO"
+
+## Reloading of the Aircraft
 
 !!! error "TODO"
 
