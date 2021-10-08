@@ -1,3 +1,5 @@
 title: Specific
 nav:
+  - index.md
+  - bestpractices.md
   - ...

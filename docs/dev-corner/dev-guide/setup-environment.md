@@ -58,7 +58,7 @@ The build.sh is actually using the docker container to compile and build the add
 !!! tip "Create working branches"
     We recommend when making changes on your fork, you create a new branch, titled with the change you're looking to make or something similar.
 
-After a successful compile it is possible to copy the `flybywire-aircraft-a320-neo` folder into your Community folder and use the compiled A32NX in your simulator. See next chapter for more convenient way to update the add-on after a compile.
+After a successful build it is possible to copy the `flybywire-aircraft-a320-neo` folder into your Community folder and use the compiled A32NX in your simulator. See next chapter for more convenient way to update the add-on after a compile.
 
 !!! warning "Important step!"
     Make sure you remove any existing copy of the aircraft from your community folder before doing this.
@@ -67,7 +67,7 @@ After a successful compile it is possible to copy the `flybywire-aircraft-a320-n
 
 To avoid having to copy the `flybywire-aircraft-a320-neo` folder after every compile it is possible to use a so called symlink from your Community folder to your compiled `flybywire-aircraft-a320-neo` folder.
 
-To create your Symlink, open your command terminal and run the below command, substituting the correct file paths with your community folder, and the 'flybywire-aircraft-a320' folder from your new project.
+To create your symlink, open your command terminal and run the below command, substituting the correct file paths with your community folder, and the 'flybywire-aircraft-a320' folder from your new project.
 
 !!! warning "Important step!"
     Make sure you remove any existing copy of the aircraft from your community folder before doing this.
@@ -132,24 +132,3 @@ When turning on power to the aircraft the screens will do a self test. See if yo
 ![hello-world-pfd](../assets/dev-guide/hello-world-pfd.png)
 
 **Congratulations! You have successfully made a code change and deployed the new add-on to the simulator.**
-
-## Quick Reloading of Avionics Displays
-
-As the aircraft in your project folder is now connected to your MSFS community folder via the symlink you created earlier, each time you load in to the A32NX on MSFS, any changes you've made since the sim was last opened should be updated.
-
-Rather than reloading MSFS each time you wish to test your changes, you can ...
-
-!!! error "TODO"
-
-## Reloading of the Aircraft
-
-!!! error "TODO"
-
-## Tips & Tricks
-
-!!! error "TODO"
-
-## Troubleshooting
-
-!!! error "TODO"
-
