@@ -6,7 +6,7 @@ On this page you will find all the necessary resources, links and documentation 
 
 The main Github repository for the A32NX aircraft is:
 
-[https://github.com/flybywiresim/a32nx](https://github.com/flybywiresim/a32nx){target=new}
+**[https://github.com/flybywiresim/a32nx](https://github.com/flybywiresim/a32nx){target=new}**
 
 The Development version of the FlyByWire A32NX is done in the master branch. Whenever something is merged into the master branch an automatic build process builds the newest Development version and uploads it to the our CDN so users can download the latest Development version via the FlyByWire Installer.
 
@@ -14,13 +14,13 @@ The Stable version is a snapshot (in git terms a [Tag](https://github.com/flybyw
 
 The experimental version is build in the branch [experimental](https://github.com/flybywiresim/a32nx/tree/experimental){target=new}. It is regularly manually updated with the latest commits from the master branch but its focus is on the development of special larger features like the custom fly-by-wire and autopilot system or the custom flight management system (cFMS).
 
-While the development in on the master branch (Development version) follows a very strict development, review and QA process, the development in the experimental branch is less strict and developers can relatively freely commit changes. This is why the Experimental version has a higher risk of bugs and issues and is only meant for testing and not supported on Discord.
+While the development on the master branch (Development version) follows a very strict development, review and QA process, the development in the experimental branch is less strict and developers can relatively freely commit changes. This is why the Experimental version has a higher risk of bugs and issues and is only meant for testing and not supported on Discord.
 
 The FlyByWire project has other repositories for sub projects like api, msfs-rs, installer, websire, docs, etc. Find them [here](https://github.com/orgs/flybywiresim/repositories){target=new}.
 
 ## Support from the FlyByWire Team on Discord
 
-To get additional information and support please make sure you join our Discord. There a various channels dedicated to support developers (in fact most channels).
+To get additional information and support please make sure you join our Discord. There are various channels dedicated to support developers (in fact most channels).
 
 [:fontawesome-brands-discord:{: .discord } - **Discord Link**](https://discord.gg/flybywire){target=new}
 
