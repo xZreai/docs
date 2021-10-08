@@ -20,12 +20,12 @@ As contributors and maintainers of this project, we pledge to respect all people
 
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct.
 
-### FBW Process
+## FBW Process
 
 !!! error "TODO"
  (e.g. PR->Code Review->QA->merge)
 
-### Helping others
+## Helping others
 
 Please help other contributors to the project wherever you can, as people all start somewhere. If you require assistance or wish to provide assistance you can ask/answer questions on the [#dev-support](https://discord.gg/v3jAxJpwZm){target=new} channel on discord.
 
