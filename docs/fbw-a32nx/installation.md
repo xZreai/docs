@@ -19,7 +19,7 @@ Please follow the information on this page to install the FlyByWire Simulations 
       - `FlyByWire Simulations - A320neo (LEAP)`
 
 !!! danger "MSFS Marketplace Version Discontinued"
-    Please uninstall any marketplace version. 
+    Please uninstall any marketplace version.
 
     You can reference [this issue](support/reported-issues.md#installation-version-conflicts) in our reported issues page for more details. 
 
@@ -59,7 +59,7 @@ You can send us logs to our [Discord](https://discord.gg/flybywire){target=new} 
 
         **Current Stable Version - ** <img src="https://img.shields.io/github/v/release/flybywiresim/a32nx.svg?color=2F4E5B&style=flat" />
 
-          Stable is our variant that has the least bugs and best performance. This version will not always be up to date but we gurantee its compatibility with each major patch from MSFS. 
+          Stable is our variant that has the least bugs and best performance. This version will not always be up to date but we gurantee its compatibility with each major patch from MSFS.
 
           [Download Stable](https://api.flybywiresim.com/api/v1/download?url=https://flybywiresim-packages.b-cdn.net/stable/A32NX-stable.zip){ .md-button target=new}
 
@@ -208,7 +208,7 @@ More info [A32NX Development Overview](../dev-corner/dev-guide/index.md)
 
 ## SimBrief Airframe
 
-The FlyByWire Simulations simBrief airframe with correct weights is available below. Please choose the correct airframe based on the version you have installed. 
+The FlyByWire Simulations simBrief airframe with correct weights is available below. Please choose the correct airframe based on the version you have installed.
 
 !!! info ""
     The development/experimental airframe is new and based on our updated flight model, and will always be kept up-to-date thanks to Navigraph's new sharable airframe feature.
