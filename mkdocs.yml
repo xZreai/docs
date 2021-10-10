@@ -54,15 +54,11 @@ plugins:
         # Folder: /airliner-flying-guide/
         'airliner-flying-guide/overview.md': 'pilots-corner/airliner-flying-guide/overview.md'
         # Folder: /development-projects/
-        'development-projects/overview.md': 'dev-corner/development-practices.md'
         'development-projects/website.md': 'dev-corner/development-projects/website.md'
         # Folder: /a32nx-devs/
-        'a32nx-dev/overview.md': 'dev-corner/development-guide.md'
+        'a32nx-dev/overview.md': 'dev-corner/dev-guide/index.md'
+        'development-projects/overview.md': 'dev-corner/dev-guide/index.md'
         'a32nx-dev/texture-changes.md': 'dev-corner/texture-changes.md'
-
-
-        # 'old.md': 'file.md'
-        # 'some_file.md': 'http://external.url.com/foobar'
 
 # Styling Front-end
 extra_css:

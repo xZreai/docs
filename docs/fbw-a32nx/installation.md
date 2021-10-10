@@ -147,8 +147,8 @@ If the above methods do not work:
 
 To find the Community folder that MSFS is actually using please follow these steps:
 
-1. Go to your General Settings in MSFS and activate Developer Mode. 
-2. Go to the menu and open the Virtual Filesystem. 
+1. Go to your General Settings in MSFS and activate Developer Mode.
+2. Go to the menu and open the Virtual Filesystem.
 3. Click on Packages Folder --> "Open Community Folder".
 
 This opens the Community folder in a Windows Explorer.
@@ -210,7 +210,7 @@ The folder can be found here:
 
 [:fontawesome-brands-github:{: .github } **GitHub Contributing.md**](https://github.com/flybywiresim/a32nx/blob/master/.github/Contributing.md){ .md-button target=new }
 
-More info [A32NX Development Overview](../dev-corner/development-guide.md)
+More info [A32NX Development Overview](../dev-corner/dev-guide/index.md)
 
 ***
 

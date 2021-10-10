@@ -31,7 +31,7 @@
     We don't know, since it depends on many factors. We will announce each Stable build update via [Discord](https://discord.gg/flybywire){target=new} and our social media: [Facebook](https://www.facebook.com/FlyByWireSimulations){target=new}, [Twitter](https://twitter.com/FlybywireSim){target=new}.
 
 ??? info "Q: How do I join the team?"
-    Head over to [A32NX Development Overview](../../dev-corner/development-guide.md) and join our Discord to get started.
+    Head over to [A32NX Development Overview](../../dev-corner/dev-guide/index.md) and join our Discord to get started.
 
 ??? info "Q: Is it payware?"
     No, it is a completely free aircraft, open-source.
