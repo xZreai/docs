@@ -1,8 +1,6 @@
 # Contribution Guidelines
 
-## General Development Process and Practices
-
-!!! error "TODO - overhaul"
+Welcome to the A32NX project repository. Thank you for your interest in contributing to the project. Full details and guidelines on how to ensure this project is managed well are included below.
 
 As this is an open source project, anyone is free to contribute as much or as little as they like.
 
@@ -20,10 +18,30 @@ As contributors and maintainers of this project, we pledge to respect all people
 
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct.
 
-## FBW Process
+Make sure to read our [Code of Conduct](https://github.com/flybywiresim/a32nx/blob/master/CODE_OF_CONDUCT.md)
 
-!!! error "TODO"
- (e.g. PR->Code Review->QA->merge)
+## Pull Requests
+
+We welcome pull requests with fixes and improvements to the project.
+
+If you wish to add a new feature or you spot a bug that you wish to fix, **please open an issue for it first** on the [A32NX issue tracker](https://github.com/flybywiresim/a32nx/issues).
+
+The work-flow for submitting a new pull request is designed to be simple, but also to ensure consistency from **all** contributors:
+
+- Fork the project into your personal space on GitHub.com.
+- Create a new branch (with a clear name of what is being changed).
+- Add changes to CHANGELOG.md with credits to yourself.
+- Commit your changes.
+- When writing commit messages make sure they are clear about what has been changed.
+- Push the commit(s) to your fork.
+- Submit a pull request (PR) to the master branch.
+- The PR title should describe the change that has been made.
+- Follow the PR template and write as much detail as necessary for your changes and include documents/screenshots if needed.
+- Be prepared to answer any questions about your PR when it is reviewed for acceptance.
+
+**Please** keep your changes in a single PR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large PRs with a small error will prevent the entire PR from being accepted.
+
+**Ensure** that you include a CHANGELOG with your PR.
 
 ## Helping others
 
@@ -82,29 +100,6 @@ Our version control approach maintains the following guidelines:
 ## Testing
 
 If changes are made they should always be tested to make sure they work as intended and don't conflict with other systems. If you see a pull request open it's recommended that you test the features that were implemented to check for errors or it works as intended.
-
-## Pull Requests
-
-We welcome pull requests with fixes and improvements to the project.
-
-If you wish to add a new feature or you spot a bug that you wish to fix, **please open an issue for it first** on the [A32NX issue tracker](https://github.com/flybywiresim/a32nx/issues).
-
-The work-flow for submitting a new pull request is designed to be simple, but also to ensure consistency from **all** contributors:
-
-- Fork the project into your personal space on GitHub.com.
-- Create a new branch (with a clear name of what is being changed).
-- Add changes to CHANGELOG.md with credits to yourself.
-- Commit your changes.
-- When writing commit messages make sure they are clear about what has been changed.
-- Push the commit(s) to your fork.
-- Submit a pull request (PR) to the master branch.
-- The PR title should describe the change that has been made.
-- Follow the PR template and write as much detail as necessary for your changes and include documents/screenshots if needed.
-- Be prepared to answer any questions about your PR when it is reviewed for acceptance.
-
-**Please** keep your changes in a single PR as small as possible (relating to one issue) as this makes it easier to review and accept.  Large PRs with a small error will prevent the entire PR from being accepted.
-
-**Ensure** that you include a CHANGELOG with your PR.
 
 ## References Material (real life aircraft)
 
