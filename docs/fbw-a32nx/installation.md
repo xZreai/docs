@@ -19,7 +19,7 @@ Please follow the information on this page to install the FlyByWire Simulations 
       - `FlyByWire Simulations - A320neo (LEAP)`
 
 !!! danger "MSFS Marketplace Version Discontinued"
-    Please uninstall any marketplace version.
+    Please uninstall any marketplace version. 
 
     You can reference [this issue](support/reported-issues.md#installation-version-conflicts) in our reported issues page for more details. 
 
@@ -59,7 +59,7 @@ You can send us logs to our [Discord](https://discord.gg/flybywire){target=new} 
 
         **Current Stable Version - ** <img src="https://img.shields.io/github/v/release/flybywiresim/a32nx.svg?color=2F4E5B&style=flat" />
 
-          Stable is our variant that has the least bugs and best performance. This version will not always be up to date but we gurantee its compatibility with each major patch from MSFS.
+          Stable is our variant that has the least bugs and best performance. This version will not always be up to date but we gurantee its compatibility with each major patch from MSFS. 
 
           [Download Stable](https://api.flybywiresim.com/api/v1/download?url=https://flybywiresim-packages.b-cdn.net/stable/A32NX-stable.zip){ .md-button target=new}
 
@@ -202,20 +202,20 @@ The folder can be found here:
 
 [:fontawesome-brands-github:{: .github } **GitHub Contributing.md**](https://github.com/flybywiresim/a32nx/blob/master/.github/Contributing.md){ .md-button target=new }
 
-More info [A32NX Development Overview](../dev-corner/dev-guide/index.md)
+More info [A32NX Development Overview](../dev-corner/development-guide.md)
 
 ***
 
 ## SimBrief Airframe
 
-The FlyByWire Simulations simBrief airframe with correct weights is available below. Please choose the correct airframe based on the version you have installed.
+The FlyByWire Simulations simBrief airframe with correct weights is available below. Our airframe applies to all versions we have available for download.
 
 !!! info ""
-    The development/experimental airframe is new and based on our updated flight model, and will always be kept up-to-date thanks to Navigraph's new sharable airframe feature.
+    The airframe below will always be **kept up-to-date** thanks to Navigraph's new sharable airframe feature.
 
-- Stable Version: ✈ [SimBrief Airframe Link](https://www.simbrief.com/system/dispatch.php?sharefleet=eyJ0cyI6IjE2MjAyMTYxMzY2MjciLCJiYXNldHlwZSI6IkEyME4iLCJjb21tZW50cyI6IkZCVyBBMzJOWCIsImljYW8iOiJBMjBOIiwibmFtZSI6IkEzMjBORU8gRkJXIiwiZW5naW5lcyI6IkxFQVAtMUEyNiIsInJlZyI6IkQtQUZCVyIsImZpbiI6IiIsInNlbGNhbCI6IiIsImhleGNvZGUiOiIiLCJjYXQiOiJNIiwicGVyIjoiQyIsImVxdWlwIjoiU0RFMkUzRkdISUoxUldYWSIsInRyYW5zcG9uZGVyIjoiTEIxIiwicGJuIjoiQTFCMUMxRDFPMVMyIiwiZXh0cmFybWsiOiIiLCJtYXhwYXgiOiIxODAiLCJ3Z3R1bml0cyI6IktHUyIsIm9ldyI6IjQxMDA1IiwibXpmdyI6IjY0MzAwIiwibXRvdyI6Ijc5MDAwIiwibWx3IjoiNjc0MDAiLCJtYXhmdWVsIjoiMTkwNDUiLCJwYXh3Z3QiOiIxMDQiLCJkZWZhdWx0Y2kiOiIiLCJmdWVsZmFjdG9yIjoiUDAwIiwiY3J1aXNlb2Zmc2V0IjoiUDAwMDAifQ--){target=new} - Credits: [@viniciusfont](https://github.com/viniciusfont){target=new}
+    Please stay tuned to our social media for updates.
 
-- Development and Experimental Version: ✈ [SimBrief Airframe Link](https://www.simbrief.com/system/dispatch.php?sharefleet=337364_1631550522735){target=new} - Credits: [@sidnov](https://github.com/sidnov){target=new}
+- All Versions: ✈ [SimBrief Airframe Link](https://www.simbrief.com/system/dispatch.php?sharefleet=337364_1631550522735){target=new} - Credits: [@sidnov](https://github.com/sidnov){target=new}
 
 Pilot ID can be found in the Optional Entries section of the Dispatch Options page.
 
