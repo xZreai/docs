@@ -1,3 +1,3 @@
 # Code Structure
 
-![ComingSoonPlacard](../../assets/ComingSoonPlacard.png)
+![ComingSoonPlacard](../../../assets/ComingSoonPlacard.png)

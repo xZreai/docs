@@ -2,7 +2,7 @@
 
 This guide shall introduce some of the common best practices to efficiently develop high quality code for the FlyByWire A32NX add-on within Microsoft Flight Simulator.
 
-![UnderConstruction](../../assets/ComingSoonPlacard.png)
+![UnderConstruction](../../../assets/ComingSoonPlacard.png)
 
 <!--
 ## Quick Reloading of Avionics Displays
