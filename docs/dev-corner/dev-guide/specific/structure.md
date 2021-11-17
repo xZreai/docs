@@ -1,4 +1,3 @@
 # Code Structure
 
-!!! error "TODO"
-    Explain the a32nx repo structure and maybe MSFS add-on structure.
+![ComingSoonPlacard_1](../../assets/ComingSoonPlacard_1.png)
